@@ -2,4 +2,7 @@
 Link App: https://elyon7-cosmo-edu.hf.space
 
 
-Link Dropbox to submit exercises: https://www.dropbox.com/request/RZWNDfeDXEN59yzNN8TW
+Link to submit exercises: https://www.dropbox.com/request/RZWNDfeDXEN59yzNN8TW
+
+
+Link Quiz: https://kahoot.it/
