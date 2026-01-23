@@ -1,5 +1,5 @@
 # Cosmo-Edu-Website
-Link App: https://elyon7-cosmo-edu.hf.space
+Link App: https://cosmoedulab-cosmoedu.hf.space
 
 
 Link to submit exercises: https://www.dropbox.com/request/RZWNDfeDXEN59yzNN8TW
